@@ -1,2 +1,0 @@
-# KSU learning doc repo
-!!!
